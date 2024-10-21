@@ -11,6 +11,7 @@ command-line application from scratch to manage a company's employee database, u
 ## Installation
 
 npm install 
+npm install pg
 
 ## Usage
 
