@@ -20,6 +20,9 @@ To start the application, run the followings command:
 -npm run build 
 -npm run start
 
+#  The walkthrough video that demonstrate how a user would invoke and use the application from the command line
+
+https://drive.google.com/file/d/1Vmlcl4lpET795icIC2ZaiBpl7QWJk8Ym/view?usp=sharing 
 
 ## Credits
 
